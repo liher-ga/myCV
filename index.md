@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 
-![Foto](./foto.jpg)
+![](./yo.jpg)
 
 ## DATOS PERSONALES
 
@@ -59,12 +59,12 @@
 
 	- El 2º curso del ciclo se realizo en la modalidad de de formación dual
 
-		-	Empresa: Triesa Comunicaciones (Alibarra, pabello 1, 30, Vitoria-Gasteiz).
+		- Empresa: Tximista comunicaciones estratégicas, Alibarra (Pabellon34),1, Vitoria-Gasteiz.
 		- Duración del contrato: Del 08/06/2015 al 07/06/2016.
 
 - **Grado Medio** de Técnico de instalaciones de Telecomunicaciones (2012/2014)
 
-	-	Centro de estudio: CIFP Mendizabala LHII, Portal de Lasarte, s/n, 01007 				Vitoria-Gasteiz (Álava, Araba)
+	- Centro de estudio: CIFP Mendizabala LHII, Portal de Lasarte, s/n, 01007 Vitoria-Gasteiz (Álava, Araba)
 
 	
 
