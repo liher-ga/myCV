@@ -16,7 +16,7 @@
 
 ## EXPERIENCIA
 
- ### Oficial de 2a en la empresa:
+### Oficial de 2a en la empresa:
 
   - Tximista comunicaciones estratégicas, Alibarra (Pabellon34),1, Vitoria-Gasteiz.
 
