@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+# CURRICULUM VITAE
 
-You can use the [editor on GitHub](https://github.com/liher-ga/myCV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## DATOS PERSONALES
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **Nombre**: Liher Gallego Gartziandia
 
-### Markdown
+- **Domicilio**: Iruña (Navarra)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **E-mail**: liher2011@gmail.com
 
-```markdown
-Syntax highlighted code block
+- **Telf**: 942345567
 
-# Header 1
-## Header 2
-### Header 3
+- **Móvil**: 634567788
 
-- Bulleted
-- List
+## EXPERIENCIA
 
-1. Numbered
-2. List
+  ### Oficial de 2a en la empresa:
 
-**Bold** and _Italic_ and `Code` text
+  - Tximista comunicaciones estratégicas, Alibarra (Pabellon34),1, Vitoria-Gasteiz.
 
-[Link](url) and ![Image](src)
-```
+- **Duración del contrato (2años): Del 20/06/16 al 19/06/18.**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Trabajos realizados en la empresa:
 
-### Jekyll Themes
+	- Instalación de radio enlaces en torre.
+	- Instalación y puesta en marcha de equipos MPR mss-8 de Alcatel lucent.
+	- Instalación de sistemas radiantes para TDT
+	- Instalación de antenas SAT
+	- Instalación de inhibidor PDCE
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liher-ga/myCV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Peon electricista en la empresa:
 
-### Support or Contact
+ - Aldakir S.L (Pabellon1),23, Altsasu
+		
+- **Duración del contrato (6 meses): Del 10/09/19 al 10/03/20**.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Trabajos realizados en la empresa:
+
+	- Instalación de equipos anti incendios.
+
+
+## TITULOS
+
+- **Grado Superior** en Sistemas de Telecomunicaciones e Informáticos (2014/2016)
+
+	- *Centro de estudio*: CIFP Mendizabala LHII, Portal de Lasarte, s/n, 01007 Vitoria-Gasteiz (Álava, Araba)
+
+	- **Conocimientos adquiridos:
+
+		- Sistemas informáticos y redes locales.
+		- Desarrollo y planificación de sistemas basados en la ICT
+		- Estructura y funcionamiento de estudios de TV.
+		- Planificación y proyección de sistema de Hogar digital.
+		- Calculo y planificación de radio enlaces.
+		- Telefonía IP
+
+
+	- El 2º curso del ciclo se realizo en la modalidad de de formación dual
+
+		-	Empresa: Triesa Comunicaciones (Alibarra, pabello 1, 30, Vitoria-Gasteiz).
+		- Duración del contrato: Del 08/06/2015 al 07/06/2016.
+
+- **Grado Medio** de Técnico de instalaciones de Telecomunicaciones (2012/2014)
+
+	-	Centro de estudio: CIFP Mendizabala LHII, Portal de Lasarte, s/n, 01007 				Vitoria-Gasteiz (Álava, Araba)
+
+	
+
+## CURSOS
+
+- Capacitación y acreditación de trabajos en altura: Landher servicios de Formación
+
+- Operador plataformas móviles IPAF (1b,3a,3b): Displacar SL (Grupo Cruz Araba).
+
+- Trabajos con riesgo eléctrico (6h presenciales): ASEM Visiones Competitivas S.L.
+
+- Riesgos durante los trabajos en espacios confinados (10h): ASEM Visiones Competitivas S.L.
+
+- Prevención de riesgos laborales (30h): C.I.F.P Mendizabala
+
+
+## IDIOMAS
+
+- Euskera
+
+- Ingles
+
+## CARNET DE CONDUCIR
+
+- Tipo: B
+
+
