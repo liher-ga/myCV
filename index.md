@@ -16,7 +16,7 @@
 
 ## EXPERIENCIA
 
-### Oficial de 2a en la empresa:
+ **Oficial de 2a en la empresa:**
 
   - Tximista comunicaciones estratégicas, Alibarra (Pabellon34),1, Vitoria-Gasteiz.
 
@@ -30,7 +30,7 @@
 	- Instalación de antenas SAT
 	- Instalación de inhibidor PDCE
 
-### Peon electricista en la empresa:
+ **Peon electricista en la empresa:**
 
  - Aldakir S.L (Pabellon1),23, Altsasu
 		
