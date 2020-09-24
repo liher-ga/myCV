@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 
-![]()
+![](./yo.jpg)
 
 ## DATOS PERSONALES
 
