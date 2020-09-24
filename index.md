@@ -1,5 +1,7 @@
 # CURRICULUM VITAE
 
+![Foto](./foto.jpg)
+
 ## DATOS PERSONALES
 
 - **Nombre**: Liher Gallego Gartziandia
@@ -14,7 +16,7 @@
 
 ## EXPERIENCIA
 
-  ### Oficial de 2a en la empresa:
+ ### Oficial de 2a en la empresa:
 
   - Tximista comunicaciones estratégicas, Alibarra (Pabellon34),1, Vitoria-Gasteiz.
 
@@ -45,7 +47,7 @@
 
 	- *Centro de estudio*: CIFP Mendizabala LHII, Portal de Lasarte, s/n, 01007 Vitoria-Gasteiz (Álava, Araba)
 
-	- **Conocimientos adquiridos:
+	- **Conocimientos adquiridos**:
 
 		- Sistemas informáticos y redes locales.
 		- Desarrollo y planificación de sistemas basados en la ICT
