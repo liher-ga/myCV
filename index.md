@@ -16,30 +16,30 @@
 
 ## EXPERIENCIA
 
-  **OFICIAL DE 2º**
+  - **OFICIAL DE 2º:** 
 
-  - **Empresa:** Tximista comunicaciones estratégicas, Alibarra (Pabellon34),1, Vitoria-Gasteiz.
+	- **Empresa:** Tximista comunicaciones estratégicas, Alibarra (Pabellon34),1, Vitoria-Gasteiz.
 
-  - **Duración del contrato:** (2años)Del 20/06/16 al 19/06/18
+  	- **Duración del contrato:** (2años)Del 20/06/16 al 19/06/18
 
-  - **Trabajos realizados en la empresa:**
+  	- **Trabajos realizados en la empresa:**
 
-	- Instalación de radio enlaces en torre.
-	- Instalación y puesta en marcha de equipos MPR mss-8 de Alcatel lucent.
-	- Instalación de sistemas radiantes para TDT
-	- Instalación de antenas SAT
-	- Instalación de inhibidor PDCE
+		- Instalación de radio enlaces en torre.
+		- Instalación y puesta en marcha de equipos MPR mss-8 de Alcatel lucent.
+		- Instalación de sistemas radiantes para TDT
+		- Instalación de antenas SAT
+		- Instalación de inhibidor PDCE
 	
 
- **PEON ELECTRICISTA**
+ - **PEON ELECTRICISTA**
 
- - **Empresa:** Aldakir S.L (Pabellon1),23, Altsasu
+ 	- **Empresa:** Aldakir S.L (Pabellon1),23, Altsasu
 		
- - **Duración del contrato:** (6 meses) Del 10/09/19 al 10/03/20.
+ 	- **Duración del contrato:** (6 meses) Del 10/09/19 al 10/03/20.
 
- - **Trabajos realizados en la empresa:**
+ 	- **Trabajos realizados en la empresa:**
 
-	- Instalación de equipos anti incendios.
+		- Instalación de equipos anti incendios.
 
 
 ## TITULOS
