@@ -16,11 +16,11 @@
 
 ## EXPERIENCIA
 
- - **Cargo:** Oficial de 2a en la empresa
+  **OFICIAL DE 2º**
 
   - **Empresa:** Tximista comunicaciones estratégicas, Alibarra (Pabellon34),1, Vitoria-Gasteiz.
 
-  - **Duración del contrato (2años): Del 20/06/16 al 19/06/18.**
+  - **Duración del contrato:** (2años)Del 20/06/16 al 19/06/18
 
   - **Trabajos realizados en la empresa:**
 
@@ -29,8 +29,9 @@
 	- Instalación de sistemas radiantes para TDT
 	- Instalación de antenas SAT
 	- Instalación de inhibidor PDCE
+	
 
- - **Cargo:** Peon electricista
+ **PEON ELECTRICISTA**
 
  - **Empresa:** Aldakir S.L (Pabellon1),23, Altsasu
 		
