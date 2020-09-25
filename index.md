@@ -46,7 +46,7 @@
 
 - **Grado Superior** en Sistemas de Telecomunicaciones e Informáticos (2014/2016)
 
-	- *Centro de estudio*: CIFP Mendizabala LHII, Portal de Lasarte, s/n, 01007 Vitoria-Gasteiz (Álava, Araba)
+	- **Centro de estudio**: CIFP Mendizabala LHII, Portal de Lasarte, s/n, 01007 Vitoria-Gasteiz (Álava, Araba)
 
 	- **Conocimientos adquiridos**:
 
