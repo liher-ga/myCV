@@ -16,18 +16,17 @@
 
 ## EXPERIENCIA
 
-  - **OFICIAL DE 2º:** 
+- **OFICIAL DE 2º:** 
 
 	- **Empresa:** Tximista comunicaciones estratégicas, Alibarra (Pabellon34),1, Vitoria-Gasteiz.
-
-  	- **Duración del contrato:** (2años)Del 20/06/16 al 19/06/18	
 	
+	- **Duración del contrato:** (2años) Del 20/06/16 al 19/06/18.
 
  - **PEON ELECTRICISTA**
 
  	- **Empresa:** Aldakir S.L (Pabellon1),23, Altsasu
-		
- 	- **Duración del contrato:** (6 meses) Del 10/09/19 al 10/03/20.
+	
+	- **Duración del contrato:** (6 meses) Del 10/09/19 al 10/03/20.
 
 
 ## TITULOS
